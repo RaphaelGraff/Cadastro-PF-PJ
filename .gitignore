@@ -1,0 +1,17 @@
+# Arquivos compilados do Java
+*.class
+
+# Pastas de compilação
+build/
+dist/
+out/
+target/
+
+# Configurações de IDE
+.nbproject/private/
+.idea/
+.vscode/
+
+# Arquivos temporários
+*.log
+.DS_Store
